@@ -52,7 +52,7 @@ on:
       BUILD_COMMAND:
         description: 'Command to be used for compiling:'
         required: true
-        default: 'mka xigua'
+        default: 'mka bacon'
       BUILD_TYPE:
         description: 'Type of build:'
         required: true
