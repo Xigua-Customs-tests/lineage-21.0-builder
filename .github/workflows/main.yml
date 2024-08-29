@@ -48,7 +48,7 @@ on:
       PRODUCT_NAME:
         description: "Product to build:"
         required: true
-        default: "lineage_xigua"
+        default: "lineage_xigua-ap2a"
       BUILD_COMMAND:
         description: 'Command to be used for compiling:'
         required: true
